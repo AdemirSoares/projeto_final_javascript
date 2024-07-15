@@ -1,0 +1,13 @@
+.mensagem {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.mensagem-valido {
+    background-color: #c9f7be;
+    color: #1b5e20;
+}
+.mensagem-invalido {
+    background-color: #ffcdd2;
+    color: #c62828;
+}
